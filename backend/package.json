@@ -1,0 +1,19 @@
+{
+  "name": "shipitapp-backend",
+  "version": "1.0.0",
+  "description": "Backend for ShipItApp deployment tool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "node-ssh": "^13.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
