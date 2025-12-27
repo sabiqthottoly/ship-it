@@ -2,7 +2,7 @@
 
 Ship It is a powerful, automated deployment tool designed to kickstart Node.js API servers on remote Ubuntu instances. It handles everything from system dependencies and Node.js installation to Nginx configuration, PM2 process management, and SSL setup with Certbot.
 
-![Ship It UI](https://github.com/user-attachments/assets/placeholder-ui-screenshot) 
+![Ship It UI](./assets/shipitscreenshot.png) 
 
 ## Features
 
